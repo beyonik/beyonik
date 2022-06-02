@@ -16,7 +16,4 @@ i watch anime so ofc i have to tell everyone
 
 sometimes i misclick and launch a game
 
-alt             |  main (vac banned)
-:-------------------------:|:-------------------------:
-[![alt](https://steam-card-mu.vercel.app/api/card?profile_link=https://steamcommunity.com/id/suspiciosul/)](https://steamcommunity.com/id/suspiciosul/)  |  [![alt](https://steam-card-mu.vercel.app/api/card?profile_link=https://steamcommunity.com/id/beyonik/)](https://steamcommunity.com/id/beyonik/)
-
+[![alt](https://steam-card-mu.vercel.app/api/card?profile_link=https://steamcommunity.com/id/suspiciosul/)](https://steamcommunity.com/id/suspiciosul/)
