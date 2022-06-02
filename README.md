@@ -13,3 +13,10 @@ im probably doing something neat; check it out
 i watch anime so ofc i have to tell everyone
 
 [![mal](https://mal-card.vercel.app/api/card?username=beyonik)](https://myanimelist.net/profile/beyonik)
+
+sometimes i misclick and launch a game
+
+alt             |  main (vac banned)
+:-------------------------:|:-------------------------:
+[![alt](https://steam-card-mu.vercel.app/api/card?profile_link=https://steamcommunity.com/id/suspiciosul/)](https://steamcommunity.com/id/suspiciosul/)  |  [![alt](https://steam-card-mu.vercel.app/api/card?profile_link=https://steamcommunity.com/id/beyonik/)](https://steamcommunity.com/id/beyonik/)
+
